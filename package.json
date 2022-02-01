@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@distube/spotify": "^1.1.0",
+    "ascii-table": "^0.0.9",
+    "canevas": "^4.1.1",
+    "canvas": "^2.9.0",
+    "discord.js": "^13.5.0",
+    "distube": "^3.0.3",
+    "ffmpeg-static": "^4.4.1",
+    "glob": "^7.2.0",
+    "libsodium-wrappers": "^0.7.9",
+    "minecraft-server-util": "^5.2.8",
+    "mongoose": "^6.1.5",
+    "mysql": "^2.18.1",
+    "random-color-hex-generator": "^1.0.4",
+    "random-hex": "^1.0.2",
+    "sourcebin": "^4.2.5",
+    "tasktimer": "^3.0.0",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.10.0"
+  },
+  "name": "suprembot",
+  "version": "1.0.0",
+  "main": "./Structures/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
