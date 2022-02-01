@@ -31,9 +31,9 @@ client.login(Token);
 /*
 const connection = mysql.createConnection({
     host: 'localhost',
-    user: 'root',
+    user: '',
     port: 3306,
-    password: 'root',
+    password: '',
     database: 'discord',
 });
 
